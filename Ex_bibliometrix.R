@@ -1,6 +1,6 @@
 library(bibliometrix) # pacote para análise bibliométrica
 
-setwd("C:/Users/Prologis01.ProLogis/Desktop/Exemplo_bibliometrix")
+setwd("C:/Users/...")
 
 #-------------------------------------------------------------------
 
