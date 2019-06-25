@@ -1,0 +1,1 @@
+cmd -c /k Rscript z_FAST.R
