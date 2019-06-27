@@ -59,12 +59,12 @@ net=networkPlot(NetMatrix, n = 30, Title = "Co-Citation Network",
 
 # Historiograph - Direct citation linkages
 
-histResults <- histNetwork(M, min.citations=quantile(M$TC,0.7), sep = ";")
+histResults <- histNetwork(M, min.citations=quantile(M$TC,0.3), sep = ";")
 
 options(width = 130)
 
-net <- histPlot(histResults, n=20, size.cex=TRUE, size = 5,
-                labelsize = 3, arrowsize = 1)
+net <- histPlot(histResults, n=50, size = 5,
+                labelsize = 3)
 
 #-------------------------------------------------------------------
 
