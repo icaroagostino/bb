@@ -11,9 +11,9 @@ Bibliometrix exemplos/arquivos:
 
 ##
 
-*__*Obs.:__ Para executar o arquivo "FAST.cmd" é necessário antes ter instalado R, RStudio, o pacote bibliometrix, ter configurado o R como variável de ambiente (para o sistema conseguir executar o script da linha de comando). O arquivo deve ser executado na mesma pasta que as saídas das bases estão (em formato .bib e com o nome de saída padrão da base) juntamente com o arquivo Unir_FAST.R, via cmd ele vai ler e exutar os comandos contidos no Unir_FAST.R:*
+*__*Obs.:__ Para executar o arquivo __"FAST.cmd"__ é necessário antes ter instalado __R, RStudio, o pacote bibliometrix, ter configurado o R como variável de ambiente__ (para o sistema conseguir executar o script da linha de comando). O arquivo deve ser executado na mesma pasta que as saídas das bases estão (em formato .bib e com o nome de saída padrão da base) juntamente com o arquivo Unir_FAST.R, via cmd ele vai ler e exutar os comandos contidos no Unir_FAST.R:*
 
-- *Ler os arquivos .bib da WoS e Scopus*
+- *Ler os arquivos __.bib__ da WoS e Scopus*
 - *Converter em um formato padrão de data.frame*
 - *Unir os dois data.frames e retirar documentos duplicados*
 - *Escrever um arquivo .xlsx no mesmo diretório*
