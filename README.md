@@ -1,20 +1,15 @@
-## Arquivos usados no Meetup | Encontro R - Florianópolis (27/07/19)
+## Arquivos usados no Meetup | Encontro R - Florianópolis (27/06/19)
 
 Bibliometrix exemplos/arquivos:
 
 - Exemplo de análise em .R
-- Exemplo de análise em .Rmd
 - Script para unir datasets WoS e Scoupus (passo a passo) em .R
-- Script para unir datasets WoS e Scoupus (rápido) em .R
 - Slides utilizados no Meetup (27/07/19) em .pdf
-- Linha de comando (.cmd) para executar o Script "Unir_FASR.R" diredo do cmd (Sem precisar abrir RStudio)*
 
-##
+## Files used in Advanced course in Sports Science (17/07/19)
 
-*__*Obs.:__ Para executar o arquivo __"FAST.cmd"__ é necessário antes ter instalado __R, RStudio, o pacote bibliometrix, ter configurado o R como variável de ambiente__ (para o sistema conseguir executar o script da linha de comando). O arquivo deve ser executado na mesma pasta que as saídas das bases estão (em formato .bib e com o nome de saída padrão da base) juntamente com o arquivo Unir_FAST.R, via cmd ele vai ler e exutar os comandos contidos no Unir_FAST.R:*
+Bibliometrix files:
 
-- *Ler os arquivos __.bib__ da WoS e Scopus*
-- *Converter em um formato padrão de data.frame*
-- *Unir os dois data.frames e retirar documentos duplicados*
-- *Escrever um arquivo .xlsx no mesmo diretório*
-- *Abrir o Biblioshiny()*
+- Example of an analyses in .R
+- Script to marge dataframes WoS and Scoupus in .R
+- Slides used (English) in dvanced course in Sports Science (17/07/19) in .pdf
